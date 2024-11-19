@@ -3,7 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsvendrame/)
 
 
-- 📚 Computer Science student at UEM
+- 🎓 Computer Science graduate from UEM.
+- 🖥️ Back-End developer.
+- 📚 Currently learning C# and Golang.
 
 ##
 

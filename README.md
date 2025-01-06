@@ -17,7 +17,7 @@
     <!-- <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/csharp/csharp-original.svg"/>; -->
     <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/docker/docker-original-wordmark.svg"/>
     <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/express/express-original-wordmark.svg"/>
-    <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/fastify/fastify-original-wordmark.svg"/>
+    <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/fastify/fastify-original.svg"/>
     <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/go/go-original-wordmark.svg"/>
     <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/heroku/heroku-original-wordmark.svg"/>
     <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/java/java-original-wordmark.svg"/>

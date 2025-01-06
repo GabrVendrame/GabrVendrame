@@ -29,6 +29,7 @@
     <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nodejs/nodejs-original-wordmark.svg"/>
     <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/postgresql/postgresql-original-wordmark.svg"/>
     <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/python/python-original-wordmark.svg"/>
+    <img height="40" widht="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/terraform/terraform-original-wordmark.svg"/>
     <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/typescript/typescript-original.svg"/>
   </p>
 

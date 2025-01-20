@@ -6,7 +6,7 @@
 
 - 🎓 Computer Science graduate from UEM.
 - 🖥️ Back-End developer.
-- 📚 Currently learning C#, .NET and Golang.
+- 📚 Currently learning C#, .NET, Angular and Golang.
 
 ## My Skills
 

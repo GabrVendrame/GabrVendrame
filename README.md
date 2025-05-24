@@ -1,8 +1,8 @@
 # Hello there 👋, I am Gabriel Vendrame.
+
 ## Backend Developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsvendrame/)
-
 
 - 🎓 Computer Science graduate from UEM.
 - 🖥️ Back-End developer.
@@ -12,15 +12,12 @@
 
   <p>
     <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-    <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/c/c-original.svg"/>
-    <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/cplusplus/cplusplus-original.svg"/>
-    <!-- <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/csharp/csharp-original.svg"/>; -->
+    <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/csharp/csharp-original.svg"/>;
     <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/docker/docker-original-wordmark.svg"/>
     <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/express/express-original-wordmark.svg"/>
     <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/fastify/fastify-original.svg"/>
     <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/go/go-original-wordmark.svg"/>
     <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/heroku/heroku-original-wordmark.svg"/>
-    <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/java/java-original-wordmark.svg"/>
     <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/javascript/javascript-original.svg"/>
     <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/jest/jest-plain.svg"/>
     <img height="40" width="40" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/mongodb/mongodb-original-wordmark.svg"/>
